@@ -1,0 +1,12 @@
+{
+  "name": "rest-api-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon --config nodemon.json src/app.ts"
+  },
+  "dependencies": {
+    "yarn": "^1.22.19"
+  }
+}
